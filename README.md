@@ -26,7 +26,7 @@ It is a beginner-friendly project for learning **embedded systems, Arduino progr
 ![Circuit Diagram](circuit_diagram.png)
 
 If you want to explore or modify the simulation, open the project directly in **Tinkercad**:  
-👉 [Tinkercad Simulation Link](./tinkercad_link.txt)
+👉(https://www.tinkercad.com/things/3m4yMaBlBOG-dazzling-fyyran/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 
 ## 💻 Arduino Code
