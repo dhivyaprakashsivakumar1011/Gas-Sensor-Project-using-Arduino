@@ -23,7 +23,6 @@ It is a beginner-friendly project for learning **embedded systems, Arduino progr
 - Jumper wires + breadboard  
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](Gas Lekage Detector img.png)
 
 If you want to explore or modify the simulation, open the project directly in **Tinkercad**:  
 👉(https://www.tinkercad.com/things/3m4yMaBlBOG-dazzling-fyyran/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
